@@ -1,0 +1,2 @@
+11.01.2026
+Hello! Welcome to the Ruins! In this update, we have added voice chat, text chat, a news panel, an inventory, items (an axe, a gun), added a laboratory where you can find loot, and removed the xmas event.
